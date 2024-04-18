@@ -1,6 +1,6 @@
-Developed a CRM Web Application using Django Web Framework and deployed using PythonAnywhere.
+Developed a CRM Web Application using Django Web Framework and deployed using Vercel.
 
-Link to the application: PranshuS15.pythonanywhere.com
+Link to the application: [DEMO](https://crmdjangodeployment.vercel.app/)
 
 ![image](https://github.com/PranshuSwaroop15/crm/assets/107299963/a9dface9-e78f-4a52-a317-ba1e65f7fd2d)
 
